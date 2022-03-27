@@ -1,4 +1,4 @@
-# chatbot_utilizando_NLP_e_API
+# chatbot_Clima
 Chatbot que pode ser acessado pelo Telegram, com o objetivo de retornar a previsão do tempo. <br>
 
 ## Pré-requisitos
